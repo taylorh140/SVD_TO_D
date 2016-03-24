@@ -1,0 +1,10 @@
+{
+	"name": "svd_to_d_reg",
+	"description": "tkd example Application.",
+	"copyright": "Copyright © 2015, Taylor.HILLEGEIST",
+	"authors": ["Taylor.HILLEGEIST"],
+	"targetPath": "build",
+	"targetType": "executable",
+	"dependencies": {
+	}
+}
